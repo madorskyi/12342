@@ -1,0 +1,5 @@
+print("".upper())
+print("Python".upper())
+print("PYTHON-DEVELOPER 2024".upper())
+print("1234PYTHON".upper())
+print("         Python".upper())

@@ -1,0 +1,5 @@
+print("python developer".title())
+print("python_dEveloPer".title())
+print("PYTHON PROGRAMMING".title())
+print("2024 pythON".title())
+print("  python   developer   2024  ".title())
